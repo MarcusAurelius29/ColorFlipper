@@ -1,0 +1,16 @@
+.click-me {
+    text-align: center;
+    display: flex;
+    margin-left: 42%;
+    margin-top: 24%;
+    width: 133px;
+    height: 133px;
+    font-size: 50px;
+}
+
+.test {
+    height: 100%;
+    margin: 0%;
+    padding: 14%;
+    background-color: aqua;
+}
